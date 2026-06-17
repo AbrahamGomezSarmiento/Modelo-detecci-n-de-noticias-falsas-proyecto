@@ -1,0 +1,21 @@
+indice,categoria_real,veredicto_llm,confianza,correcto
+396,Noticia Real,REAL,1.0,True
+248,Noticia Real,REAL,1.0,True
+215,Noticia Falsa,Noticia Real,0.5,False
+353,Noticia Real,Noticia Real,0.5,True
+548,Noticia Falsa,FALSA,1.0,True
+420,Noticia Falsa,FALSA,0.95,True
+592,Noticia Real,REAL,1.0,True
+247,Noticia Real,REAL,1.0,True
+55,Noticia Falsa,FALSA,1.0,True
+213,Noticia Falsa,FALSA,1.0,True
+284,Noticia Real,REAL,1.0,True
+31,Noticia Real,REAL,1.0,True
+176,Noticia Falsa,FALSA,1.0,True
+86,Noticia Falsa,FALSA,0.95,True
+249,Noticia Real,REAL,1.0,True
+346,Noticia Real,REAL,1.0,True
+2,Noticia Real,REAL,1.0,True
+419,Noticia Falsa,FALSA,0.95,True
+220,Noticia Falsa,FALSA,0.95,True
+49,Noticia Falsa,FALSA,0.95,True
